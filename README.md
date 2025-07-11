@@ -19,4 +19,4 @@ $ python3 Run.py
   ![Image](https://github.com/user-attachments/assets/8854d62b-ef6f-42b9-ad5a-0293770f1639)
 </details>
 
-### ☕ Support Me
+### [☕ Support me](https://sociabuzz.com/wahyuuw_404)
