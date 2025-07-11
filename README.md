@@ -12,7 +12,11 @@ $ python3 Run.py
 ```
 
 <details >
-<summary>Screenshot 📸</summary>
+<summary><strong>Screenshot 📸</strong></summary>
+  
+  ![Image](https://github.com/user-attachments/assets/5fd494e2-e493-4e89-9537-55627472c087)
+  
+  ![Image](https://github.com/user-attachments/assets/8854d62b-ef6f-42b9-ad5a-0293770f1639)
 </details>
 
 ### ☕ Support Me
