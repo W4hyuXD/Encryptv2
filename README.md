@@ -7,7 +7,7 @@ $ pkg update -y && pkg upgrade -y
 $ pkg i -y git python
 $ git clone https://github.com/W4hyuXD/Encryptv2
 $ cd Encryptv2
-$ pip install -r requirements.txt
+$ pip install rich
 $ python3 Run.py
 ```
 
